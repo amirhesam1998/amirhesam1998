@@ -68,8 +68,6 @@ I'm currently looking for opportunities where I can:
 
     Build domain-oriented, scalable, and resilient systems that solve real business problems
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/parham-mahmoodi-8947b829a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](https://www.linkedin.com/in/amirhesam1998/)) 
 
 ## 💻 Tech Stack:
 
