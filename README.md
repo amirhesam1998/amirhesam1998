@@ -10,7 +10,7 @@ My journey started with Python and PHP, and over time I’ve expanded my experti
 
     Frameworks: .NET 6/7/8, Django, Laravel
 
-    Databases: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
+    Databases: SQL (MySQL, SQLServer , PostgreSQL), NoSQL (MongoDB , Redis)
 
     Tools: Docker, Linux, Git, Postman
 
