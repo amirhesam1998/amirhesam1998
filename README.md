@@ -4,7 +4,7 @@
 I’m a junior Back-End Developer with a degree in Applied Mathematics, which has helped me build a solid foundation in logical thinking, problem-solving, and system analysis. My passion for technology and software engineering led me into backend development, where I focus on designing and building reliable, scalable, and maintainable systems.
 
 My journey started with Python and PHP, and over time I’ve expanded my expertise to include C# and the .NET ecosystem. I’m especially enthusiastic about learning and applying modern architectural patterns that make software systems flexible, domain-aligned, and easy to evolve.
-🔧 Tech Stack & Expertise
+## 🔧 Tech Stack & Expertise
 
     Languages: C#, Python, PHP
 
@@ -22,7 +22,7 @@ My journey started with Python and PHP, and over time I’ve expanded my experti
 
     Testing: Unit testing, Integration testing
 
-🧠 Architecture & Domain Thinking
+## 🧠 Architecture & Domain Thinking
 
 I am especially interested in building systems using Domain-Driven Design (DDD) principles to bridge the gap between business needs and technical implementation. I believe in organizing code and systems around the core domain, using:
 
@@ -46,7 +46,7 @@ I'm currently exploring Microservices Architecture, and how services can be inde
 
     Service registry/discovery, authentication, and distributed logging
 
-🤝 Work Ethic & Collaboration
+## 🤝 Work Ethic & Collaboration
 
 I enjoy working in collaborative environments using Agile and Scrum methodologies. I value:
 
@@ -58,7 +58,7 @@ I enjoy working in collaborative environments using Agile and Scrum methodologie
 
     Participating in discussions on architecture, business logic, and tech strategy
 
-🚀 Goals
+## 🚀 Goals
 
 I'm currently looking for opportunities where I can:
 
