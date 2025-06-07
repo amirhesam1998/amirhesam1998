@@ -1,6 +1,72 @@
 # 💫 About Me:
-## About Me 👨‍💻<br><br> a passionate Backend Developer who thrives on diving deep into the vast ocean of technology and staying up-to-date with the latest innovations. I constantly strive to expand my knowledge, embrace new challenges, and enhance my professional skills.<br><br>💻 What drives me?<br>- The joy of learning cutting-edge technologies and implementing them effectively.<br>- A relentless pursuit of career growth and excellence in my field.<br>- A deep passion for my work and a strong commitment to consistency and perseverance in everything I do.<br><br>🚀 Whether it's architecting robust back-end systems, optimizing APIs, or exploring new tools, I'm always eager to push boundaries and deliver impactful solutions.<br><br>Let’s connect and build something amazing together!<br>
+## 👨‍💻 About Me
 
+I’m a junior Back-End Developer with a degree in Applied Mathematics, which has helped me build a solid foundation in logical thinking, problem-solving, and system analysis. My passion for technology and software engineering led me into backend development, where I focus on designing and building reliable, scalable, and maintainable systems.
+
+My journey started with Python and PHP, and over time I’ve expanded my expertise to include C# and the .NET ecosystem. I’m especially enthusiastic about learning and applying modern architectural patterns that make software systems flexible, domain-aligned, and easy to evolve.
+🔧 Tech Stack & Expertise
+
+    Languages: C#, Python, PHP
+
+    Frameworks: .NET 6/7/8, Django, Laravel
+
+    Databases: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
+
+    Tools: Docker, Linux, Git, Postman
+
+    API Design: RESTful APIs, API Gateway, Swagger/OpenAPI
+
+    DevOps: Containerization with Docker, Linux server management
+
+    Design Patterns: SOLID, Factory, Repository, Mediator, etc.
+
+    Testing: Unit testing, Integration testing
+
+🧠 Architecture & Domain Thinking
+
+I am especially interested in building systems using Domain-Driven Design (DDD) principles to bridge the gap between business needs and technical implementation. I believe in organizing code and systems around the core domain, using:
+
+    Bounded Contexts to isolate different parts of the system
+
+    Ubiquitous Language to ensure clarity across teams
+
+    Aggregates, Entities, and Value Objects to model domain logic accurately
+
+    Application & Domain layers using Clean Architecture principles
+
+    Emphasis on Separation of Concerns, Loose Coupling, and High Cohesion
+
+I'm currently exploring Microservices Architecture, and how services can be independently deployed, scaled, and maintained. I’ve worked on small-scale microservices involving:
+
+    Service communication through REST or Message Queues
+
+    Event-driven design with eventual consistency
+
+    API Gateway with YARP in .NET
+
+    Service registry/discovery, authentication, and distributed logging
+
+🤝 Work Ethic & Collaboration
+
+I enjoy working in collaborative environments using Agile and Scrum methodologies. I value:
+
+    Writing clean, maintainable, and well-documented code
+
+    Continuous learning and improving as a developer
+
+    Pair programming and code reviews
+
+    Participating in discussions on architecture, business logic, and tech strategy
+
+🚀 Goals
+
+I'm currently looking for opportunities where I can:
+
+    Apply my knowledge of .NET, C#, and architectural patterns
+
+    Grow within a professional team that values clean code and thoughtful design
+
+    Build domain-oriented, scalable, and resilient systems that solve real business problems
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parham-mahmoodi-8947b829a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
